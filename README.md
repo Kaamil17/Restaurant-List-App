@@ -1,16 +1,38 @@
-# restaurant_list_app
+# Restaurant List App
 
-A new Flutter project.
+The **Restaurant List App** is a Flutter application that displays a list of restaurants and allows users to filter them using a search bar. This app is designed with a clean and modern UI, utilizing Riverpod for state management.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- **Flutter SDK:** Follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install) to set up Flutter on your machine.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation and Running the Project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Navigate to the Project Directory:**
+
+    ```bash
+    cd Restaurant-List-App
+    ```
+
+2. **Install Dependencies:**
+
+    ```bash
+    flutter pub get
+    ```
+
+3. **Run the App:**
+
+    For the best user experience, run the app in Chrome or Edge:
+
+    ```bash
+    flutter run -d chrome
+    ```
+
+    or
+
+    ```bash
+    flutter run -d edge
+    ```
+---
