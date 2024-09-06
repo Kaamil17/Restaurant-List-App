@@ -35,4 +35,7 @@ The **Restaurant List App** is a Flutter application that displays a list of res
     ```bash
     flutter run -d edge
     ```
+
+    Reading the Code
+    To explore the code, check the lib folder, which contains all the main source files, including models, providers, and screens used in the app.
 ---
